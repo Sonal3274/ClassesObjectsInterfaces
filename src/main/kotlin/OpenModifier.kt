@@ -1,11 +1,13 @@
+/*Open Modifier Example*/
+
 open class OpenModifier {
     open val salary: Int = 1000
-    open fun display(){
+    open fun display() {
         println("This is Open Modifier class")
     }
 }
 
-class OpenModifierSubClass : OpenModifier(){
+class OpenModifierSubClass : OpenModifier() {
     override val salary: Int = 100000
     override fun display() {
         println("This is the subclass")

@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7db31ddc-12ae-49ff-a046-a3f87d302952" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/OpenModifier.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +67,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.InterfaceKt">
+  <component name="RunManager" selected="Kotlin.OpenModifierKt">
     <configuration name="InterfaceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InterfaceKt" />
       <module name="untitled.main" />
@@ -83,8 +82,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OpenModifierKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OpenModifierKt" />
+      <module name="untitled.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.OpenModifierKt" />
         <item itemvalue="Kotlin.InterfaceKt" />
         <item itemvalue="Kotlin.MainKt" />
       </list>
@@ -99,7 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673254658770</updated>
       <workItem from="1673254660725" duration="525000" />
-      <workItem from="1673255328186" duration="1889000" />
+      <workItem from="1673255328186" duration="2603000" />
     </task>
     <servers />
   </component>
