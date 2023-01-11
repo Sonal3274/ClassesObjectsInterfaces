@@ -10,6 +10,7 @@ fun main() {
     val objB = B()
 
     objB.test()
+    objA.q()
 }
 
 open class A{
@@ -17,12 +18,16 @@ open class A{
     private var q = 20
     internal var r = 30
     protected var s = 40
+
+    fun q(){
+        println(q)
+    }
 }
 
 class B:A(){
     fun test(){
         println(p)
-        println(q)
+       // println(q)
         println(r)
         println(s)
     }

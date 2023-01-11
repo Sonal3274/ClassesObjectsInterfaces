@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7db31ddc-12ae-49ff-a046-a3f87d302952" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/VisibilityModifiers.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7db31ddc-12ae-49ff-a046-a3f87d302952" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +65,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.AbstractExampleKt">
+  <component name="RunManager" selected="Kotlin.VisibilityModifiersKt">
     <configuration name="AbstractExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AbstractExampleKt" />
       <module name="untitled.main" />
@@ -97,8 +94,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VisibilityModifiersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VisibilityModifiersKt" />
+      <module name="untitled.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.VisibilityModifiersKt" />
         <item itemvalue="Kotlin.AbstractExampleKt" />
         <item itemvalue="Kotlin.OpenModifierKt" />
         <item itemvalue="Kotlin.InterfaceKt" />
@@ -115,7 +120,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673254658770</updated>
       <workItem from="1673254660725" duration="525000" />
-      <workItem from="1673255328186" duration="4973000" />
+      <workItem from="1673255328186" duration="5333000" />
     </task>
     <servers />
   </component>
