@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7db31ddc-12ae-49ff-a046-a3f87d302952" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/SealedClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Constructors.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,7 +123,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673254658770</updated>
       <workItem from="1673254660725" duration="525000" />
-      <workItem from="1673255328186" duration="7155000" />
+      <workItem from="1673255328186" duration="7891000" />
     </task>
     <servers />
   </component>
