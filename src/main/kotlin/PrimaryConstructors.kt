@@ -1,8 +1,6 @@
-import java.sql.Driver
-
 /*
 * Constructors are used to define the default value for the objects.
-* This example contains primary constructors, secondary constructors and init block.
+* This example contains primary constructors.
 */
 
 fun main() {
@@ -17,13 +15,13 @@ fun main() {
     println(Person.age)
 }
 
-class Automobile(val name: String, val tyres: Int, val maxSeating: Int, hasAirbags: Boolean) { // These are primary constructors.
+class Automobile(val name: String, val tyres: Int, val maxSeating: Int, hasAirbags: Boolean) {
     var airbags = hasAirbags
 }
 
 class Empty
 
-class Person(nameParam: String, ageParam: Int) { // These are secondary constructors.
-    val name: String = "$nameParam - Clan"
+class Person(nameParam: String, ageParam: Int) {
+    val name: String = nameParam
     val age: Int = ageParam
 }
