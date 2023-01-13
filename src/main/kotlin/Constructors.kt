@@ -17,13 +17,13 @@ fun main() {
     println(Person.age)
 }
 
-class Automobile(val name: String, val tyres: Int, val maxSeating: Int, hasAirbags: Boolean) {
+class Automobile(val name: String, val tyres: Int, val maxSeating: Int, hasAirbags: Boolean) { // These are primary constructors.
     var airbags = hasAirbags
 }
 
 class Empty
 
-class Person(nameParam: String, ageParam: Int) {
+class Person(nameParam: String, ageParam: Int) { // These are secondary constructors.
     val name: String = "$nameParam - Clan"
     val age: Int = ageParam
 }
