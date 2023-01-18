@@ -11,7 +11,7 @@ fun main() {
     SharingWidget.Display()
 }
 
-object SharingWidget {
+object SharingWidget {  //Singleton object
     private var twitterLikes = 0
     private var fbLikes = 0
 
