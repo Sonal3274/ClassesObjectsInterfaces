@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7db31ddc-12ae-49ff-a046-a3f87d302952" name="Changes" comment="Secondary constructor and init block created">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataClass_CopyFun.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ObjectDeclaration.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,10 +66,20 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.DataClassesKt">
+  <component name="RunManager" selected="Kotlin.DataClass_CopyFunKt">
+    <configuration name="DataClass_CopyFunKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataClass_CopyFunKt" />
+      <module name="untitled.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DataClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataClassesKt" />
       <module name="untitled.main" />
@@ -98,20 +108,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondaryConstructorsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SecondaryConstructorsKt" />
-      <module name="untitled.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.DataClass_CopyFunKt" />
         <item itemvalue="Kotlin.DataClassesKt" />
         <item itemvalue="Kotlin.LateInitKt" />
         <item itemvalue="Kotlin.GetterSetterKt" />
         <item itemvalue="Kotlin.DefaultConstructorKt" />
-        <item itemvalue="Kotlin.SecondaryConstructorsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +127,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673254658770</updated>
       <workItem from="1673254660725" duration="525000" />
-      <workItem from="1673255328186" duration="14096000" />
+      <workItem from="1673255328186" duration="15463000" />
     </task>
     <task id="LOCAL-00001" summary="Secondary constructor and init block created">
       <created>1673855763342</created>
