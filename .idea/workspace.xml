@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7db31ddc-12ae-49ff-a046-a3f87d302952" name="Changes" comment="Secondary constructor and init block created">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/UseOfObjectExpression.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/CompanionObject.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,16 +72,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ObjectExpressionKt">
-    <configuration name="DataClass_CopyFunKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataClass_CopyFunKt" />
+  <component name="RunManager" selected="Kotlin.CompanionObjectKt">
+    <configuration name="CompanionObjectKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompanionObjectKt" />
       <module name="untitled.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataClassesKt" />
+    <configuration name="DataClass_CopyFunKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataClass_CopyFunKt" />
       <module name="untitled.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -109,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CompanionObjectKt" />
         <item itemvalue="Kotlin.ObjectExpressionKt" />
         <item itemvalue="Kotlin.SingletonPatternKt" />
         <item itemvalue="Kotlin.ObjectDeclarationKt" />
         <item itemvalue="Kotlin.DataClass_CopyFunKt" />
-        <item itemvalue="Kotlin.DataClassesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +127,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673254658770</updated>
       <workItem from="1673254660725" duration="525000" />
-      <workItem from="1673255328186" duration="16770000" />
+      <workItem from="1673255328186" duration="18424000" />
     </task>
     <task id="LOCAL-00001" summary="Secondary constructor and init block created">
       <created>1673855763342</created>
